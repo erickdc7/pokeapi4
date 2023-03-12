@@ -6,8 +6,21 @@ This web page was made with the following technologies:
 - HTML5
 - CSS3
 - JavaScript
-- React (useState, useEffect, createContext, useContext)
-- React Router DOM (Link, Outlet, Navigate, useNavigate, useParams, useLocation, Route, Routes, BrowserRouter)
+- React
+  - useState
+  - useEffect
+  - createContext
+  - useContext
+- React Router DOM
+  - Link
+  - Outlet
+  - Navigate
+  - useNavigate
+  - useParams
+  - useLocation
+  - Route
+  - Routes
+  - BrowserRouter
 - UI Ball
 - PokeAPI
 
