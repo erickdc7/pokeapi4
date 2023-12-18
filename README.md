@@ -1,5 +1,5 @@
 # PokeAPI 04
-This design is inspired by this [video](https://youtu.be/BVQrG-Bp-94), which belongs to [Programación para el Mundo](https://www.youtube.com/@programacionparaelmundo).
+This design is inspired by the work of [Programación para el Mundo](https://www.youtube.com/@programacionparaelmundo). Click [here](https://youtu.be/BVQrG-Bp-94) to watch the video.
 
 ## Technologies
 This web page was made with the following technologies:
